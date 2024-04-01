@@ -20,7 +20,7 @@ const Currency = ()=>{
                 <option className='alert alert-success' value="₹">₹ Rupee</option>
                 <option className='alert alert-success' value="€">€ Euro</option>
              </select>	
-      }	
+            }	
         </div>
     )
 }
